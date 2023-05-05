@@ -7,6 +7,8 @@
         <conf name="test"    description="Required for test only" extends="runtime"/>
     </configurations>
     
+	<!--test hook-->
+	
 	<dependencies>
 		<dependency org="org.slf4j" name="slf4j-api" rev="1.7.6" conf="compile->default"/>
 		<dependency org="jstl" name="jstl" rev="1.2" conf="compile->default"/>
