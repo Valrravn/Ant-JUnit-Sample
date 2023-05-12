@@ -103,8 +103,6 @@
 		</junit>
 	</target>
 	
-	<!-- test webhook update -->
-	<!-- test webhook update2 -->
 
 	<!-- Create folders -->
 	<target name="init">
